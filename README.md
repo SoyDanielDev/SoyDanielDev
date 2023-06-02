@@ -1,4 +1,4 @@
-![Daniel Giampapa @soydanieldev](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
+![Daniel Giampapa @soydanieldev|50](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
 
 ### Hi there 👋
 
