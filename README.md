@@ -1,7 +1,5 @@
-![Engelbart|100](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
-
 <p style = 'text-align:center;'>
-<img src="https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2" alt="JuveYell" width="300px">
+<img src="https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2" alt="@SoyDanielDev" width="100px">
 </p>
 
 ### Hi there 👋
@@ -20,3 +18,4 @@ En todas las redes sociales me consigues como **@soydanieldev** y en linkedin co
 
 <!--
 **SoyDanielDev/SoyDanielDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![Engelbart|100](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
