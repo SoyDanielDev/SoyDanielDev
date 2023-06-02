@@ -1,5 +1,9 @@
 ![Engelbart|100](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
 
+<p style = 'text-align:center;'>
+<img src="https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2" alt="JuveYell" width="300px">
+</p>
+
 ### Hi there 👋
 
 ### Quise dejar la primera linea de "Hi there" como un "Hola Mundo"
