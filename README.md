@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-Quise dejar la primera linea de "Hi there" como un "Hola Mundo"
+### Quise dejar la primera linea de "Hi there" como un "Hola Mundo"
 
 Comienza una aventura con grandes retos
 
-Soy Daniel Giampapa, profesional de la computación con mas de 25 años de experencia programando. 
+Soy Daniel Giampapa, profesional de la computación con mas de 25 años de experencia programando.
 
-En todas las redes sociales me consigues como @soydanieldev y en linkedin como Daniel Giampapa
+Mi ultima actualización en la programación fue uan Maestria en ciencia de datos y la autoenseñanza
+
+En todas las redes sociales me consigues como **@soydanieldev** y en linkedin como **Daniel Giampapa**
+
+🐍 Mucha programación en Python y Ciencia de Datos
 
 <!--
 **SoyDanielDev/SoyDanielDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
