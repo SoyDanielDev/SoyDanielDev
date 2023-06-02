@@ -4,7 +4,7 @@
 
 Comienza una aventura con grandes retos
 
-![avataaars](https://github.com/SoyDanielDev/SoyDanielDev/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
+![avataaars](/assets/135294506/dd003e3f-c40e-4adf-99c2-386b90c273a2)
 
 Soy Daniel Giampapa, profesional de la computación con mas de 25 años de experencia programando.
 
